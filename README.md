@@ -6,11 +6,13 @@
 
 这是介绍怼怼三国服务器客户端的使用文档
 
-{% page-ref page="qian-duan/qian-duan-jie-shao.md" %}
 
-{% page-ref page="hou-duan/hou-duan-jie-shao.md" %}
 
-{% page-ref page="you-xi-fa-bu/deng-lu-qu-dao.md" %}
+[前端](qian-duan/qian-duan-jie-shao.md)
 
-{% page-ref page="fu-zhu-gong-ju/gong-ju-jie-shao.md" %}
+[后端](hou-duan/hou-duan-jie-shao.md)
+
+[发布](you-xi-fa-bu/deng-lu-qu-dao.md)
+
+[工具](fu-zhu-gong-ju/gong-ju-jie-shao.md)
 
